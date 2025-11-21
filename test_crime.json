@@ -1,0 +1,19 @@
+{
+  "complaint_type": "common-crime",
+  "is_anonymous": false,
+  "reporter_name": "Maria Silva",
+  "reporter_contact": "+244923456789",
+  "reporter_email": "maria.silva@email.ao",
+  "reporter_bi": "123456789LA001",
+  "incident_date": "2024-11-20",
+  "incident_time": "20:30",
+  "location": "Luanda, Ingombota",
+  "description": "Fui assaltada quando saía do trabalho",
+  "latitude": -8.8390977,
+  "longitude": 13.2894791,
+  "type_details": {
+    "crime_type": "robbery",
+    "brief_description": "Três homens me abordaram e roubaram a bolsa e telemóvel",
+    "people_involved": "Três suspeitos, idades aparentes entre 20-30 anos"
+  }
+}

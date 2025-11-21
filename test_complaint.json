@@ -1,0 +1,19 @@
+{
+  "complaint_type": "missing-person",
+  "is_anonymous": true,
+  "incident_date": "2024-11-20",
+  "incident_time": "14:30",
+  "location": "Luanda, Maianga",
+  "description": "Pessoa desaparecida no bairro Maianga",
+  "type_details": {
+    "full_name": "João Manuel",
+    "age": 25,
+    "gender": "male",
+    "physical_description": "Altura média, cabelo curto, usa óculos",
+    "last_seen_location": "Mercado do Maianga",
+    "last_seen_date": "2024-11-20",
+    "last_seen_time": "14:00",
+    "clothing_description": "Camisa azul e calças jeans",
+    "relationship_to_reporter": "friend"
+  }
+}
